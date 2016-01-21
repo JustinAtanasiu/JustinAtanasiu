@@ -5,7 +5,8 @@
              "storePassword": "",
              "alias": "",
              "password" : "",
-             "keystoreType": ""
+          "keystoreType": ""
+
          }
      }
  }
